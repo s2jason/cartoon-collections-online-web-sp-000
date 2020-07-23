@@ -23,6 +23,7 @@ def long_planeteer_calls
       return false
     else 
       return true
+      i = i + 1
   end
 end
 
